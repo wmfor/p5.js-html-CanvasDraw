@@ -1,0 +1,1 @@
+Just go inside of the Project folder and open up the Sketch.JS and the Main.HTML.
